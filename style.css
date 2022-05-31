@@ -1,0 +1,22 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size: xx-large;
+}
+body{
+    
+    color: red;
+    border: black;
+    border-radius: 10px;
+    margin: 3px;
+    text-align: center;
+}
+input{
+    font-size:x-large;
+    flex: auto;
+    padding: 10px;
+}
+ul{
+    font-size: x-large;
+}
